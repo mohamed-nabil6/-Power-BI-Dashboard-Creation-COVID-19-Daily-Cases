@@ -16,4 +16,4 @@ COVID-19 Insights & Tracing Cases in India
 ⏰ Temporal Trends: Analyzing temporal trends illustrates the increase in total doses administered throughout 2021. Through visual representations, audiences can observe the trajectory of vaccination campaigns and the evolution of response measures to the pandemic
 
 
-[Explore the complete interactive dashboard](https://www.linkedin.com/posts/mohmed-nabil_powerbi-dataanalysis-dataanalysis-activity-7172503952960307200-Usm7?utm_source=share&utm_medium=member_desktop)
+[Explore the complete interactive dashboard](https://www.novypro.com/project/covid-19-insights--tracing-cases-in-india)
